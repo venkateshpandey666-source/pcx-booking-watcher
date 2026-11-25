@@ -173,3 +173,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    telegram("✅ PCX Booking Watcher: Telegram test successful!")
