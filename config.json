@@ -1,7 +1,20 @@
+
 {
-  "pages": [
-    "https://in.bookmyshow.com/movies/hyderabad/avengers-doomsday/buytickets/ET00526320/20261217?etCodes=*&language=english&refEventCode=ET00526320",
-    "https://in.bookmyshow.com/movies/hyderabad/avengers-doomsday/buytickets/ET00526320/20261218?etCodes=*&language=english&refEventCode=ET00526320",
-    "https://in.bookmyshow.com/movies/hyderabad/avengers-doomsday/buytickets/ET00526320/20261219?etCodes=*&language=english&refEventCode=ET00526320"
-  ]
+  "movie": "Avengers Doomsday",
+  "screen_keyword": "PCX Screen",
+  "booking_pages": [
+    {
+      "name": "PCX December 17",
+      "url": "https://in.bookmyshow.com/movies/hyderabad/avengers-doomsday/buytickets/ET00526320/20261217?etCodes=*&language=english&refEventCode=ET00526320"
+    },
+    {
+      "name": "PCX December 18",
+      "url": "https://in.bookmyshow.com/movies/hyderabad/avengers-doomsday/buytickets/ET00526320/20261218?etCodes=*&language=english&refEventCode=ET00526320"
+    },
+    {
+      "name": "PCX December 19",
+      "url": "https://in.bookmyshow.com/movies/hyderabad/avengers-doomsday/buytickets/ET00526320/20261219?etCodes=*&language=english&refEventCode=ET00526320"
+    }
+  ],
+  "seat_pages": []
 }
